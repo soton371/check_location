@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800553754492",
+    "project_id": "check-location-d12f2",
+    "storage_bucket": "check-location-d12f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800553754492:android:36b3c5be40653485fccef9",
+        "android_client_info": {
+          "package_name": "com.example.check_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800553754492-qvdgdodpt2efh10v7esb3gn40p9fvi6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFXlyZnjOazeLtVLVQfpEfnn4Uvxsi2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800553754492-qvdgdodpt2efh10v7esb3gn40p9fvi6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
